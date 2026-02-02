@@ -1,6 +1,6 @@
 # Federated-learning-with-heterogeneous-data
 ## *Non-Negative Matrix Factorization* 
- | Label | Title  | Code | Model |Description | Others|
+ | Label | Title  | Code | Algorithm |Description | Others|
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- |
 |2020_SCAFFOLD_ICML [paper](https://proceedings.mlr.press/v119/karimireddy20a.html)  |SCAFFOLD: Stochastic Controlled Averaging for Federated Learning  |[code](https://github.com/KarhouTam/SCAFFOLD-PyTorch)  | SCAFFOLD![image](https://github.com/zhudafa/Federated-learning-with-heterogeneous-data/blob/main/20scaffold.png)| ![image](https://github.com/zhudafa/Federated-learning-with-heterogeneous-data/blob/main/20scaffold2.png)|![image](https://github.com/zhudafa/Federated-learning-with-heterogeneous-data/blob/main/20scaffold3.png)|
 |2020_Prox_PMLS [paper](https://arxiv.org/pdf/1812.06127)  |Federated optimization in heterogeneous networks |[code](https://github.com/litian96/FedProx)  | FedProx![image](https://github.com/zhudafa/Federated-learning-with-heterogeneous-data/blob/main/li201.png)| ||
